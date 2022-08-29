@@ -1,4 +1,4 @@
-Download Moŕé Brawl V8 Revived APK!
+Download More Brawl V8 Revived APK!
 
 Client
 
