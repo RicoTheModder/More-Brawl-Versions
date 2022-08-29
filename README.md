@@ -1,24 +1,9 @@
-# More-Brawl-Versions
-All Revived More Brawl versions from v1 to v11!
+Downloaď More Brawl V11 Revived
 
-What Is More Brawl?
+Cĺient
 
-Custom Mod / Private Server
+https://www.mediafire.com/file/gg9un6oko63q2d8/More_Brawl_V11_%2528Revived_by_RicoDEV%2529.apk/file
 
-What Includes More Brawl?
+Server
 
--Clubs (i think)
-
--Custom Loading
-
--Custom Background
-
--Brand New Brawlers (like venom or clonic)
-
-Credits: Speedy
-
-Revived: RicoDEV (RicoTheModder)
-
-How to Acsess the download page?
-
-Just click the branches button then select a version and click it
+https://www.mediafire.com/file/hq2id3gitcelogm/More-Brawl-V11-Server.zip/file
