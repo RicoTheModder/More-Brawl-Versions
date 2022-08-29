@@ -17,14 +17,6 @@ What Includes More Brawl?
 
 Credits: Speedy
 
-Client (From V6 to V11):CB V31 Client
-
-Client (From V5 to V1) CB V29 Client
-
-Server (V31) CB V31 Server
-
-Server (V29) CB V29 Server
-
 Revived: RicoDEV (RicoTheModder)
 
 How to Acsess the download page?
