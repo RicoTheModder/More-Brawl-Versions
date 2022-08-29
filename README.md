@@ -6,7 +6,7 @@ PyDroid or Python
 
 Download Client
 
-<https://mega.nz/file/l90nAKTR#BxEVG1nMBcZXTtuDqW9cfO97IWZbgq6gQqDjgHQCiTY
+https://mega.nz/file/l90nAKTR#BxEVG1nMBcZXTtuDqW9cfO97IWZbgq6gQqDjgHQCiTY
 
 Download Server
 
