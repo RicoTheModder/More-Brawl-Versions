@@ -1,24 +1,14 @@
-# More-Brawl-Versions
-All Revived More Brawl versions from v1 to v11!
+Download V2 of More Brawl
 
-What Is More Brawl?
+Required Modules
 
-Custom Mod / Private Server
+PyDroid or Python
 
-What Includes More Brawl?
+Download Client
 
--Clubs (i think)
+<https://mega.nz/file/l90nAKTR#BxEVG1nMBcZXTtuDqW9cfO97IWZbgq6gQqDjgHQCiTY
 
--Custom Loading
+Download Server
 
--Custom Background
+https://mega.nz/file/BldSUYgZ#HFt_FVqseJ4g-S20k02psBbLwchceU-KIpAKUnvQQGc
 
--Brand New Brawlers (like venom or clonic)
-
-Credits: Speedy
-
-Revived: RicoDEV (RicoTheModder)
-
-How to Acsess the download page?
-
-Just click the button with the text "main" then select a version and click it
