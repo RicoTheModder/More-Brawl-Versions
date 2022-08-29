@@ -1,32 +1,13 @@
-# More-Brawl-Versions
-All Revived More Brawl versions from v1 to v11!
+Download The V1 of More Brawl Revived
 
-What Is More Brawl?
+Required Server Modules
 
-Custom Mod / Private Server
+Python or PyDroid
 
-What Includes More Brawl?
+Download Client
 
--Clubs (i think)
+<https://mega.nz/file/A41VHBhK#X83pZeGG3p9juC3Nz88sObggoS0M7F-awTWkeztzeTw>
 
--Custom Loading
+Download Server
 
--Custom Background
-
--Brand New Brawlers (like venom or clonic)
-
-Credits: Speedy
-
-Client (From V6 to V11):CB V31 Client
-
-Client (From V5 to V1) CB V29 Client
-
-Server (V31) CB V31 Server
-
-Server (V29) CB V29 Server
-
-Revived: RicoDEV (RicoTheModder)
-
-How to Acsess the download page?
-
-Just click the 3 dot button then select a version and click it
+https://mega.nz/file/chNUxQIA#3NIcIZ7Ar4vq5C5DRMOIG7P4LpoezVcswixsJnaw3Tg
