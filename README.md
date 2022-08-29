@@ -21,4 +21,4 @@ Revived: RicoDEV (RicoTheModder)
 
 How to Acsess the download page?
 
-Just click the button with the text "main" then select a version and click it
+Just click the branches button then select a version and click it
