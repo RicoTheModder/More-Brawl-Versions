@@ -2,7 +2,9 @@
 All Revived More Brawl versions from v1 to v11!
 
 What Is More Brawl?
+
 Custom Mod / Private Server
+
 What Includes More Brawl?
 
 -Clubs (i think)
