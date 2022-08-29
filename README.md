@@ -1,9 +1,9 @@
-Download V4 of More Brawl!
+Downoload V4 of More Brawl
 
-Client
+Client 
 
-https://mega.nz/file/BldSUYgZ#HFt_FVqseJ4g-S20k02psBbLwchceU-KIpAKUnvQQGc
+https://mega.nz/file/wgkX2bYK#uOc7Oa31DLcu9XxLSQISHawc46p3x75M0zdvWU9yfzU
 
 Server
 
-https://mega.nz/file/EtEBUBQR#R5bYlwZ3ov9Rvi81bFLvmQiWQvDwfmQT-YZm2nahjIM
+https://mega.nz/file/Rgd0kIoA#Yj5td8ViHYVuThFmwpMYJVS-mqm2qNL9ocIB0eadTyU
