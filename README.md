@@ -1,24 +1,9 @@
-# More-Brawl-Versions
-All Revived More Brawl versions from v1 to v11!
+Download More Brawl V7 Revived!
 
-What Is More Brawl?
+Client
 
-Custom Mod / Private Server
+https://mega.nz/file/lxkEwKSI#RWr9DXuMdkJWz4KLPqjhNPGhyx-qH9oKdSMJ9vH2BBA
 
-What Includes More Brawl?
+Server
 
--Clubs (i think)
-
--Custom Loading
-
--Custom Background
-
--Brand New Brawlers (like venom or clonic)
-
-Credits: Speedy
-
-Revived: RicoDEV (RicoTheModder)
-
-How to Acsess the download page?
-
-Just click the branches button then select a version and click it
+https://mega.nz/file/IwUz3bzY#abxtlxKEBdDAB9JwiQdSHQOAOcgK4l6eQXUYaURWTUM
